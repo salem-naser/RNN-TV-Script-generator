@@ -24,6 +24,15 @@ Barney_Gumble: Yeah, you should only drink to enhance your social skills.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=lj6LnihWpOg" target="_blank"><img src="http://img.youtube.com/vi/lj6LnihWpOg/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+<img src="https://vignette.wikia.nocookie.net/simpsonstappedout/images/1/10/Moes_bar_s.jpg/revision/latest?cb=20140303081347" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
+<img src="https://www.spicenews.com.au/wp-content/uploads/2014/05/moes.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
+
 The solution was made using the [Test-driven development (TDD) software development process](https://www.madetech.com/blog/9-benefits-of-test-driven-development) and the unit tests provided in [problem_unittests.py](https://github.com/TeaP/RNN-TV-Script-generator/blob/master/problem_unittests.py). 
 
 The environment should be created using [requirements.txt](https://github.com/TeaP/RNN-TV-Script-generator/blob/master/requirements.txt).
