@@ -40,11 +40,11 @@ The solution includes
 7. Applying the above functions. 
 8. Creating batches. 
 9. Neural Network Training including setting hyperparameters:
-+ ***num_epochs** to the number of epochs,
-+ ***batch_size** to the batch size,
-+ ***rnn_size** to the size of the RNNs,
-+ ***embed_dim** to the size of the embedding,
-+ ***seq_length** to the length of sequence,
++ ***num_epochs*** to the number of epochs,
++ ***batch_size*** to the batch size,
++ ***rnn_size*** to the size of the RNNs,
++ ***embed_dim*** to the size of the embedding,
++ ***seq_length*** to the length of sequence,
 + ***learning_rate*** to the learning rate.
 10. Picking the next word using ***np.random.choice***.
 
