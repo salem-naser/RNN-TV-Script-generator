@@ -9,15 +9,17 @@ I've used part of the Simpsons dataset [Simpsons dataset](https://www.kaggle.com
 
 The data sets used in the training are contained in the file [moes_tavern_lines.txt](https://github.com/TeaP/RNN-TV-Script-generator/blob/master/moes_tavern_lines.txt). A sample scene (data set) would be one of Bart's prank calls to Moe:
 
-*Moe_Szyslak: (INTO PHONE) Moe's Tavern. Where the elite meet to drink.
+```
+Moe_Szyslak: (INTO PHONE) Moe's Tavern. Where the elite meet to drink.
 Bart_Simpson: Eh, yeah, hello, is Mike there? Last name, Rotch.
 Moe_Szyslak: (INTO PHONE) Hold on, I'll check. (TO BARFLIES) Mike Rotch. Mike Rotch. Hey, has anybody seen Mike Rotch, lately?
-Moe_Szyslak: (INTO PHONE) Listen you little puke. One of these days I'm gonna catch you, and I'm gonna carve my name on your back with an ice pick.
+Moe_Szyslak: (INTO PHONE) Listen you little puke. One of these days I'm gonna catch you, 
+and I'm gonna carve my name on your back with an ice pick.
 Moe_Szyslak: What's the matter Homer? You're not your normal effervescent self.
 Homer_Simpson: I got my problems, Moe. Give me another one.
 Moe_Szyslak: Homer, hey, you should not drink to forget your problems.
 Barney_Gumble: Yeah, you should only drink to enhance your social skills.
-*
+```
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=lj6LnihWpOg" target="_blank"><img src="http://img.youtube.com/vi/lj6LnihWpOg/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
@@ -47,19 +49,20 @@ The solution includes
 
 The TV Script is Nonsensical (doesn't make any sense), since the training was on than a megabyte of text. 
 
-
-*moe_szyslak:... i didn't rip out his voice box, but i did stretch out.
+```
+moe_szyslak:... i didn't rip out his voice box, but i did stretch out.
 chief_wiggum: uh, hello? we can get back in business... uh, i was gonna go homer in the stuff here.
 marge_simpson: what?
 homer_simpson:(grunt) what's the hubub book, boys.
 moe_szyslak: yeah, i know, your dad's the two thing to do. and now, i know, this is notably thing.
-carl_carlson:(worried) i'm the best of this than moe's. it, uh, good uh, let me check. but, i'm gonna do something with my partner, made in the air room. he might have better to buy him.
+carl_carlson:(worried) i'm the best of this than moe's. it, uh, good uh, let me check. but, 
+i'm gonna do something with my partner, made in the air room. he might have better to buy him.
 moe_szyslak: listen to dumb? oh, i ain't be mad at those all life.
 lenny_leonard: what are you going?
 homer_simpson: marge_simpson: when you're right, moe. don't as nothin'.
 marge_simpson: to put. the answer.
-marge_simpson:(sad) yeah, we all got any letter before...(smug laugh)*
-
+marge_simpson:(sad) yeah, we all got any letter before...(smug laugh)
+```
     
 
 
