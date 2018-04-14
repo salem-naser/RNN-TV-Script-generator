@@ -21,8 +21,6 @@ Homer_Simpson: I got my problems, Moe. Give me another one.
 Moe_Szyslak: Homer, hey, you should not drink to forget your problems.
 Barney_Gumble: Yeah, you should only drink to enhance your social skills.
 ```
-<img src="https://vignette.wikia.nocookie.net/simpsonstappedout/images/1/10/Moes_bar_s.jpg/revision/latest?cb=20140303081347" 
-alt="IMAGE ALT TEXT HERE"  /></a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=lj6LnihWpOg" target="_blank"><img src="http://img.youtube.com/vi/lj6LnihWpOg/0.jpg" 
 alt="IMAGE ALT TEXT HERE" /></a>
