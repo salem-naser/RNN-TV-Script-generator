@@ -9,7 +9,7 @@ I've used part of the Simpsons dataset [Simpsons dataset](https://www.kaggle.com
 
 The data sets used in the training are contained in the file [moes_tavern_lines.txt](https://github.com/TeaP/RNN-TV-Script-generator/blob/master/moes_tavern_lines.txt). A sample scene (data set) would be one of Bart's prank calls to Moe:
 
-```python
+**
 Moe_Szyslak: (INTO PHONE) Moe's Tavern. Where the elite meet to drink.
 Bart_Simpson: Eh, yeah, hello, is Mike there? Last name, Rotch.
 Moe_Szyslak: (INTO PHONE) Hold on, I'll check. (TO BARFLIES) Mike Rotch. Mike Rotch. Hey, has anybody seen Mike Rotch, lately?
@@ -18,7 +18,7 @@ Moe_Szyslak: What's the matter Homer? You're not your normal effervescent self.
 Homer_Simpson: I got my problems, Moe. Give me another one.
 Moe_Szyslak: Homer, hey, you should not drink to forget your problems.
 Barney_Gumble: Yeah, you should only drink to enhance your social skills.
-```
+**
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=lj6LnihWpOg" target="_blank"><img src="http://img.youtube.com/vi/lj6LnihWpOg/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
@@ -49,7 +49,7 @@ The solution includes
 The TV Script is Nonsensical (doesn't make any sense), since the training was on than a megabyte of text. 
 
 
-```python
+**
 moe_szyslak:... i didn't rip out his voice box, but i did stretch out.
 chief_wiggum: uh, hello? we can get back in business... uh, i was gonna go homer in the stuff here.
 marge_simpson: what?
@@ -61,7 +61,7 @@ lenny_leonard: what are you going?
 homer_simpson: marge_simpson: when you're right, moe. don't as nothin'.
 marge_simpson: to put. the answer.
 marge_simpson:(sad) yeah, we all got any letter before...(smug laugh)
-```
+**
 
     
 
