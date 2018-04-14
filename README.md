@@ -39,7 +39,7 @@ The solution includes the following:
 6. Building the RNN using ***tf.nn.dynamic_rnn***. 
 7. Applying the above functions. 
 8. Creating batches. 
-9. Neural Network Training including setting hyperparameters:
+9. Neural network training including setting hyperparameters:
 + ***num_epochs*** to the number of epochs,
 + ***batch_size*** to the batch size,
 + ***rnn_size*** to the size of the RNNs,
