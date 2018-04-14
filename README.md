@@ -30,7 +30,7 @@ The environment should be created using [requirements.txt](https://github.com/Te
 
 # Solution
 
-The solution includes
+The solution includes the following: 
 1.  Function for creating lookup tables: dictionaries that map a word from the vocabulary to a unique integer and vice versa, an integer to a word from the vocabulary. 
 2. Function for the token lookup, in order to replace punctuation with tokens (e.g.  ',' is replaced by '||Comma||'). 
 3. Creating placeholders for the inputs, targets and learning rate. 
