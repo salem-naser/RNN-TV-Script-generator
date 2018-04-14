@@ -7,7 +7,7 @@ The Jupyter notebook [dlnd_tv_script_generation.ipynb](https://github.com/TeaP/R
 
 I've used part of the Simpsons dataset [Simpsons dataset](https://www.kaggle.com/wcukierski/the-simpsons-by-the-data) of scripts from 27 seasons. The neural network generates a new TV script for a scene at Moe's Tavern.
 
-The data sets used in the training are contained in the file [moes_tavern_lines.txt](https://github.com/TeaP/RNN-TV-Script-generator/blob/master/moes_tavern_lines.txt). A sample scene (data set) would be one of Bart's prank calls to Moe:
+The data sets used in the training are contained in the file [moes_tavern_lines.txt](https://github.com/TeaP/RNN-TV-Script-generator/blob/master/moes_tavern_lines.txt). A sample data set would be the text of a scene with one of Bart's prank calls to Moe:
 
 ```
 Moe_Szyslak: (INTO PHONE) Moe's Tavern. Where the elite meet to drink.
@@ -24,7 +24,7 @@ Barney_Gumble: Yeah, you should only drink to enhance your social skills.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=lj6LnihWpOg" target="_blank"><img src="http://img.youtube.com/vi/lj6LnihWpOg/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-The solution was made using the [Test-driven development (TDD) software development process](https://www.madetech.com/blog/9-benefits-of-test-driven-development), using the unit tests provided in [problem_unittests.py](https://github.com/TeaP/RNN-TV-Script-generator/blob/master/problem_unittests.py). 
+The solution was made using the [Test-driven development (TDD) software development process](https://www.madetech.com/blog/9-benefits-of-test-driven-development) and the unit tests provided in [problem_unittests.py](https://github.com/TeaP/RNN-TV-Script-generator/blob/master/problem_unittests.py). 
 
 The environment should be created using [requirements.txt](https://github.com/TeaP/RNN-TV-Script-generator/blob/master/requirements.txt).
 
