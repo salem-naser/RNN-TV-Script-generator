@@ -12,7 +12,8 @@ The data sets used in the training are contained in the file [moes_tavern_lines.
 ```
 Moe_Szyslak: (INTO PHONE) Moe's Tavern. Where the elite meet to drink.
 Bart_Simpson: Eh, yeah, hello, is Mike there? Last name, Rotch.
-Moe_Szyslak: (INTO PHONE) Hold on, I'll check. (TO BARFLIES) Mike Rotch. Mike Rotch. Hey, has anybody seen Mike Rotch, lately?
+Moe_Szyslak: (INTO PHONE) Hold on, I'll check. (TO BARFLIES) Mike Rotch. Mike Rotch. 
+Hey, has anybody seen Mike Rotch, lately?
 Moe_Szyslak: (INTO PHONE) Listen you little puke. One of these days I'm gonna catch you, 
 and I'm gonna carve my name on your back with an ice pick.
 Moe_Szyslak: What's the matter Homer? You're not your normal effervescent self.
@@ -47,7 +48,7 @@ The solution includes
 ***learning_rate*** to the learning rate.
 10. Picking the next word using ***np.random.choice***
 
-The TV Script is Nonsensical (doesn't make any sense), since the training was on than a megabyte of text. 
+The TV Script is nonsensical (doesn't make any sense), since the training was on than a megabyte of text. 
 
 ```
 moe_szyslak:... i didn't rip out his voice box, but i did stretch out.
