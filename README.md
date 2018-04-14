@@ -25,11 +25,11 @@ Barney_Gumble: Yeah, you should only drink to enhance your social skills.
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 <img src="https://vignette.wikia.nocookie.net/simpsonstappedout/images/1/10/Moes_bar_s.jpg/revision/latest?cb=20140303081347" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE"  /></a>
 
 
 <img src="https://www.spicenews.com.au/wp-content/uploads/2014/05/moes.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" /></a>
 
 
 
